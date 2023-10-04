@@ -32,6 +32,6 @@ The Horiseon website has been refactored to meet accessibility standards by foll
 
 ## How to open Code
 
-git clone https://github.com/your-username/Horiseon-Home-Page-Code-Refactor.git
+git clone (https://github.com/KiranPandranki17/Horiseon-Home-page-code-refactor.git)
 - Navigate to the project directory.
 - Open index.html in your preferred web browser to view the website.
