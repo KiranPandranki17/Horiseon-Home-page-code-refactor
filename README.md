@@ -44,9 +44,3 @@ Horiseon-Home-page-code-refactor/
 ├── index.html
 │
 └── README.md
-
-
-
----
-
-Feel free to customize the README file further based on your specific project requirements and provide as much detail as necessary to ensure that anyone who reads it can understand how to use and contribute to your refactored Horiseon website.
