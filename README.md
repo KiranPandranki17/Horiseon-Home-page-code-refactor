@@ -5,7 +5,7 @@ The Horiseon website has been refactored to meet accessibility standards by foll
 ## HTML Changes:
 
 1. **Semantic HTML Elements:**
-   - Replaced `<div>` tags with appropriate semantic HTML elements for better readability and accessibility like '<section>','<footer>','<aside>','<nav>' and '<article>'.
+   - Replaced `<div>` tags with appropriate semantic HTML elements for better readability and accessibility like `<section>`,`<footer>`,`<aside>`,`<nav>` and `<article>`.
 
 2. **Page Title:**
    - Changed the site's title to the correct designation for improved SEO and user experience and added favicon to site's title bar.
@@ -32,6 +32,6 @@ The Horiseon website has been refactored to meet accessibility standards by foll
 
 ## How to open Code
 
-Clone the repository: git clone (https://github.com/KiranPandranki17/Horiseon-Home-page-code-refactor.git)
-Navigate to the project directory.
-Open index.html in your preferred web browser to view the website.
+git clone https://github.com/your-username/Horiseon-Home-Page-Code-Refactor.git
+- Navigate to the project directory.
+- Open index.html in your preferred web browser to view the website.
